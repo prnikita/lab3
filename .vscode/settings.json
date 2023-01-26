@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/nikitaprasad/Documents/GitHub/cse12-wi23-pa2-ArrayList-starter/libs/**/*.jar"
+    ]
+}
